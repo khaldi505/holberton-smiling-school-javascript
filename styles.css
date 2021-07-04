@@ -1,0 +1,158 @@
+:root {
+    --light-purple: #C271FF;
+    --idk-purple-ig: #C271FF;
+    --card-header: #071629;
+    --card-text: rgba(7, 22, 41, 0.5);
+}
+
+
+
+
+
+
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    color: white;
+}
+
+header {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 155vh;
+}
+
+.btn {
+    background-color: var(--light-purple);
+    border-radius: 1rem;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    color: white;
+}
+
+.btn-1 {
+    width: 9rem;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.my-bg {
+    background-color: var(--idk-purple-ig);
+}
+
+.carousel-item p.col-4 {
+    font-weight: 400;
+    font-size: 22px;
+
+}
+
+.my-sec-caro{
+    height: 100vh;
+
+}
+
+.card-style h5 {
+    color: var(--card-header);
+}
+.card-style p {
+    color: var(--card-text);
+}
+
+.my-caro {
+    height: 40vh;
+    background-color: var(--idk-purple-ig);
+}
+
+.purple{
+    color: var(--idk-purple-ig);
+}
+
+.play-icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-left: 5rem;
+    padding-top: 1.5rem;
+  }
+
+  .bg {
+    background-color: var(--card-header);
+}
+  .bg-1 {
+      background-color: var(--card-header);
+      height: 30vh;
+
+  }
+  .fa {
+    background: white;
+    color: var(--card-header);
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.gray-bg {
+
+    background-color: rgba(255, 254, 254, 0.315)
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+    .navbar-brand {
+        order: 1;
+    }
+    .navbar-collapse {
+        flex-grow:0;}
+    .navbar-toggler, .collapse {
+        display: none;
+    }
+    .collapse:not(.show) {
+        display: flex;
+    }
+    .navbar-collapse {
+        flex-basis: auto;
+    }
+    .navbar-nav {
+        flex-direction: row;
+    }
+}
+
+@media (max-width: 575px) {
+    .bg {
+        background-color: var(--card-header);
+        height: 100%;
+
+    }
+}
+
+.check-icon {
+    background-color: #82D24F;
+}
+.nav-item .nav-link:hover {
+    color: var(--idk-purple-ig) !important;
+    padding-bottom: 0.5rem !important;
+    text-decoration: underline white solid!important;
+}
