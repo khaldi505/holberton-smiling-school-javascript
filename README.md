@@ -49,7 +49,7 @@ to achieve the expected result
 
 ## Author :black_nib:
 
-- **Iheb Khaldi** - <[bdbaraban](https://github.com/khaldi505)>
+- **Iheb Khaldi** - <[khaldi505](https://github.com/khaldi505)>
 
 ## License :lock:
 
