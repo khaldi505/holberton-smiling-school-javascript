@@ -1,6 +1,8 @@
 <h1 align="center">Holberton Smiling School Javascript</h1>
 
-![](./images/readme_Media/Holbertonschool.png | align="center")
+<p align="center">
+  ![](./images/readme_Media/Holbertonschool.png)
+</p>
 
 ### Description
 - This project is part of Holberton School Front-end curriculum
