@@ -10,13 +10,6 @@
 - In the previous project i made the HTML structure with accessibility in mind
 - Added style to the website to match the expected result and to be responsive on any screen size (mobile, tab, desktop) using mainly Bootstrap and CSS
 
-### Screenshots
-![](./images/readme_Media/sample_1.png)
-![](./images/readme_Media/sample_2.png)
-![](./images/readme_Media/sample_3.png)
-![](./images/readme_Media/sample_final.png)
-
-
 ### Requirements
     You have to use Bootstrap
     For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
@@ -40,3 +33,25 @@
 <script src="scripts.js"></script>
 
 ```
+
+### Screenshots
+
+- this is the final result:
+![](./images/readme_Media/sample_1.png)
+![](./images/readme_Media/sample_2.png)
+![](./images/readme_Media/sample_3.png)
+![](./images/readme_Media/sample_final.png)
+
+### Thoughts about the project
+
+I had a good time working on this & the related previous project
+cause it allowed me to implement what i learned, plus add my touch
+to achieve the expected result
+
+## Author :black_nib:
+
+- **Iheb Khaldi** - <[bdbaraban](https://github.com/khaldi505)>
+
+## License :lock:
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
