@@ -11,12 +11,12 @@
 - Added style to the website to match the expected result and to be responsive on any screen size (mobile, tab, desktop) using mainly Bootstrap and CSS
 
 ### Requirements
-    You have to use Bootstrap
-    For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
-    Your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
-    You have to use JQuery
-    Your scripts.js must contain all your Javascript part
-    Your Javascript must be executed only when the document is loaded
+- You have to use Bootstrap
+- For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
+- Your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
+- You have to use JQuery
+- Your scripts.js must contain all your Javascript part
+- Your Javascript must be executed only when the document is loaded
 
 ### Imports
 ```html
