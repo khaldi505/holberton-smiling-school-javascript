@@ -34,9 +34,8 @@
 
 ```
 
-### Screenshots
+### Screenshots From the final result
 
-- this is the final result:
 ![](./images/readme_Media/sample_1.png)
 ![](./images/readme_Media/sample_2.png)
 ![](./images/readme_Media/sample_3.png)
