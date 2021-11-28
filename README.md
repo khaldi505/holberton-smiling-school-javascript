@@ -1,7 +1,7 @@
 <h1 align="center">Holberton Smiling School Javascript</h1>
 
 <p align="center">
-  ![](./images/readme_Media/Holbertonschool.png)
+  <img src='./images/readme_Media/Holbertonschool.png'></img>
 </p>
 
 ### Description
