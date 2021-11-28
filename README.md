@@ -50,6 +50,7 @@ to achieve the expected result
 ## Author :black_nib:
 
 - **Iheb Khaldi** - <[khaldi505](https://github.com/khaldi505)>
+- 📫 How to reach me: here's my linkedin account: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="iheb-khaldi-a199b4193"><a class="LI-simple-link" href='https://tn.linkedin.com/in/iheb-khaldi-a199b4193?trk=profile-badge'>iheb khaldi</a></div>
 
 ## License :lock:
 
